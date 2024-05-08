@@ -1,0 +1,143 @@
+
+@media screen and (min-width:340px) and (max-width:761px){
+	body{
+		width: 100%;
+		margin: 0 auto;
+		
+	}
+
+	li{
+		text-align: left;
+		margin-left: 5px;
+		margin-top: 30px;
+		list-style-type: none; 
+		margin-bottom: 40px;
+		color: #464646;
+		
+		
+	}
+	.boxx{
+		background-repeat: repeat-x;
+		margin-top: 60px;
+	}
+	.boxx h3 a{
+		margin-bottom: 120px;
+		text-decoration:none;
+	}
+	.bb{
+		
+		color: #0055ff;
+		font-size: 22px;
+		
+	}
+	
+	.acc{
+		margin-top: -180px;
+		border-bottom: 2px solid;
+		width: 30px;
+		color: #ffffff;
+	}
+	.ac{
+		margin-top: -220px;
+		border-bottom: 2px solid;
+		margin-bottom: 230px;
+	}
+	
+	.cc{
+		margin-top: 30px;
+		border: 8px dotted #0055ff;
+		background-color: #f8f8f8;
+	}
+	.a{
+		
+		text-align: center;
+	}
+	.a img{
+		text-align: center;
+		border: 2px solid #ffffff;
+		margin: auto;
+		height: 150px;
+		border-radius: 80%;
+		margin-top: 63px;
+	}
+	.dd{
+		width: 400px;
+		text-align: left;
+		margin-top: 190px;
+	}
+	.ddd{
+		margin-left: 70px;
+		color: #818181;
+	}
+	.dda{
+
+		margin-left: 150px;
+		margin-top: -150px;
+	}
+	.dda img{
+		margin: auto;
+		width: 200px;
+	}
+	span{
+		color: #f08d13;
+	}
+	
+}
+body{
+	
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+}
+@media screen and (min-width:768px){
+	li{
+		text-align: left;
+		margin-left: 5px;
+		margin-top: 30px;
+		list-style-type: none; 
+		margin-bottom: 40px;
+		color: #464646;
+		font-size: 14px;
+	}
+	.a{
+		width: 150px;
+	}
+	.a img{
+
+		border: 2px solid #ffffff;
+	    margin-left: 20px;
+		height: 150px;
+		border-radius: 10%;
+		margin-top: 60px;
+	}
+	.cc{
+		margin-top: 30px;
+		border: 8px dotted #0055ff;
+		background-color: #f8f8f8;
+		width:70% ;
+		height: 50%;
+		margin-left: 200px;
+	}
+	.bb{
+		width: 300px;
+		margin-left: 230px;
+		color: #0055ff;
+		font-size: 22px;
+		margin-top: -300px;
+		
+	}
+	.boxx p{
+		width: 300px;
+		text-align: left;
+		margin-left:50px;
+	}
+	.dd{
+		width: 400px;
+		margin: auto;
+		margin-top: 100px;
+	}
+	.dda img{
+		width: 30%;
+	}
+}
+
